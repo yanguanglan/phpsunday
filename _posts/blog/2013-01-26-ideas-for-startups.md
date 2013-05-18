@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 创业的点子
 description: 创业，实验自己的想法。
 category: blog

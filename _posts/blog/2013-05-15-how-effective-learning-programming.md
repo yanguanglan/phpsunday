@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 如何有效的学习编程
 description: 多么重的领悟，如何有效的学习编程。
 category: blog
