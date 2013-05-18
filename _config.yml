@@ -1,0 +1,13 @@
+auto:	          true
+
+markdown:         Redcarpet
+pygments:         true
+paginate:         6
+permalink:        /:title
+
+title: "PHPSunday"
+description: "关于PHP主题的交流与分享"
+domain: phpsunday.com
+baseurl: /
+production_url: http://phpsunday.com
+
