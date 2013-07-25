@@ -1,5 +1,5 @@
 permalink:   /:year/:month/:day/:title
 lsi:         false
 pygments:    true
-paginate:    20
-auto:        false
+paginate:    6
+auto:        true

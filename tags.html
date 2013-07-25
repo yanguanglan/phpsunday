@@ -1,0 +1,21 @@
+---
+layout: default
+title: Tags
+---
+
+<ul class="breadcrumb">
+  <li class="home"><a href="/">Home</a></li>
+  <li>Tags</li>
+</ul>
+
+<h2>Tags</h2>
+{% for tag in site.tags %} 
+      <h3 id="{{tag[0]}}">{{tag[0]}}</h3>
+{% for post in tag[1] %}
+<ul class="posts">          <li>
+            <div>{{ post.date | date_to_string }}</div>
+            <a href="{{ post.url }}">post.title</a>
+          </li>
+</ul>
+{% endfor %}
+{% endfor %}
