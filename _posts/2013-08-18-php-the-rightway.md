@@ -44,7 +44,7 @@ PHP和其他语言一样拥有大量可重用的第三方类库和组件。
 
 [PEAR](http://pear.php.net/) 官方的第三方类库包管理器，PHP安装包里面自带，需要手动安装下。通常用于系统级别的依赖管理。
 
-[Composer](http://getcomposer.org/) 目前很流行的第三方类库包管理器，并且兼容PEAR，通常用于项目级别的依然管理。
+[Composer](http://getcomposer.org/) 目前很流行的第三方类库包管理器，并且兼容PEAR，通常用于项目级别的依赖管理。
 
 ####开发实践
 
